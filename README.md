@@ -1,3 +1,3 @@
 # BusinessWebsite
 
-## Deneme Site
+## Single Page Website
